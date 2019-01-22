@@ -12236,11 +12236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gdu4\\Desktop\\0122exam\\20181207\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\gdu4\\Desktop\\Develope\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\gdu4\\Desktop\\0122exam\\20181207\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "C:\\Users\\gdu4\\Desktop\\Develope\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\gdu4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gdu4\\Desktop\\0122exam\\20181207\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\gdu4\\Desktop\\Develope\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
